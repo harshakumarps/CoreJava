@@ -41,7 +41,7 @@ public class Airplane {
     }
 
     public void displayInfo() {
-        System.out.println("Airplane Information:");
+
         System.out.println("Name: " + airlineName);
         System.out.println("Country: " + country);
         System.out.println("Passenger Capacity: " + passengerCapacity);
