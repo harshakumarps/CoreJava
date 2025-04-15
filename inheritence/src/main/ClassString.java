@@ -7,6 +7,7 @@ public class ClassString {
         System.out.println("name :"+name);
         System.out.println("u_name :"+u_name);
         String u_1name="harsha";
+        System.out.println("hii");
         if(name==u_1name){
             System.out.println("matching");
 

@@ -3,6 +3,8 @@ package main;
 public class SpaceCount {
     public static void main(String[] args) {
         String sentence = "Java is fun";
+        System.out.println("hii");
+
         int count = 0;
 
         // Loop through each character

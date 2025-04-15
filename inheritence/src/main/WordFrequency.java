@@ -4,6 +4,8 @@ public class WordFrequency {
     public static void main(String[] args) {
         String sentence = "Java is fun and Java is powerful";
         String[] words = sentence.split(" ");
+        System.out.println("hii");
+
 
         for (int i = 0; i < words.length; i++) {
             int count = 0;

@@ -6,6 +6,8 @@ public class Count {
 
         // Split based on one or more spaces
         String[] words = sentence.trim().split(" ");
+        System.out.println("hii");
+
 
         System.out.println("Number of words: " + words.length);
     }
